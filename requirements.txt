@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+streamlit
+flask
+regex
+python-dotenv
+langchain_groq
+requests
