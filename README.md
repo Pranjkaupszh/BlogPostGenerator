@@ -3,6 +3,9 @@ Create professional, engaging, and SEO-friendly blog posts in seconds using AI.
 
 This Streamlit application allows you to generate full-length blog content with customizable tone, automatic summaries, and relevant hashtags — all optimized for readability and social sharing.
 
+<img width="1151" height="737" alt="Screenshot 2025-10-25 170933" src="https://github.com/user-attachments/assets/43b3d95c-77a1-4659-a5f3-19c30d765ff2" />
+
+
 # 🌟 Key Features
 
 AI-Powered Blog Writing: Uses Groq LLM (Meta LLaMA) to produce natural, human-like blog content.
